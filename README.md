@@ -14,12 +14,12 @@
 "y": <|top_y|>, <BR>
 "w": <|width|>, <BR>
 "h": <|height|>, <BR>
-"obj_tracking_id": <|obj_tracking_id|>,     		//Optional <BR>
+"obj_tracking_id": <|obj_tracking_id|>,     	//Optional <BR>
 "obj_dwell_time": <|obj_dwell_time|>,     		//Optional <BR>
-"color_id": <|class_id|>,	       				//Optional <BR>
+"color_id": <|class_id|>,	                    //Optional <BR>
 "behavior_id": <|behavior_name|>, <BR>
-“rec_live”: <|rtsp_live|>, <BR>         //Optional <BR>
-“rec_play”: <|rtsp_playback|> <BR>     //Optional <BR>
+“rec_live”: <|rtsp_live|>,                    //Optional <BR>
+“rec_play”: <|rtsp_playback|> <BR>            //Optional <BR>
 “base64_img”: <|base64_jpeg|>, <BR>
 }], <BR>
 }  <BR>
