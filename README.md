@@ -26,17 +26,17 @@
 ## Parameters
 | Token | Description |
 | ----- | ---------- |
-| <%name%> | Name of the object |
-| <%mac_address%> | The mac address of your device | 
-| <%confidence%> | Confidence of the object |
-| <%left_x%> | Bonding box of X |
-| <%top_y%> | Bonding box of Y |
-| <%width%> | Bonding box of width |
-| <%height%> | Bonding box of height |
-| <%behavior_id%> | Behavior ID |
-| <%color ID%> | Color of the object |
-| <%color%> | Color of the object |
-| <%rtsp_live%> | The live URL of your device | 
-| <%rtsp_playback%> | The recording URL of your device | 
-| <%base64_img%> | Base 64 encryption of the JPEG |
+| <|name|> | Name of the object |
+| <|mac_address|> | The mac address of your device | 
+| <|confidence|> | Confidence of the object |
+| <|left_x|> | Bonding box of X |
+| <|top_y|> | Bonding box of Y |
+| <|width|> | Bonding box of width |
+| <|height|> | Bonding box of height |
+| <|behavior_id|> | Behavior ID |
+| <|color ID|> | Color of the object |
+| <|colo|> | Color of the object |
+| <|rtsp_live|> | The live URL of your device | 
+| <|rtsp_playback|> | The recording URL of your device | 
+| <|base64_img|> | Base 64 encryption of the JPEG |
 
