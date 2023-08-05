@@ -3,13 +3,13 @@
 HTTP Post SDK
 
 {"AiEngine": <BR>
-[{  <BR>
-"created_at": <|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z,
-"camera_name": <|device_name|>,
-"camera_mac": <|mac_address|>,
-"confidence": <|confidence|>,
-"label_name": <|name|>,
-"class_id": <|class_id|>,
+[{ <BR>
+"created_at": <|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z, <BR>
+"camera_name": <|device_name|>,  <BR>
+"camera_mac": <|mac_address|>, <BR>
+"confidence": <|confidence|>, <BR>
+"label_name": <|name|>, <BR>
+"class_id": <|class_id|>, <BR>
 "x": <|left_x|>,
 "y": <|top_y|>,
 "w": <|width|>,
