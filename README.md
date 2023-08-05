@@ -43,7 +43,7 @@
 ## Example
 {"AiEngine":
 [{
-"createdAt": "<|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z", <BR>
+"createdAt": "2023-08-02T02:11:33.000000Z", <BR>
 "camera_name":"Z6R8982X3",<BR>
 "camera_mac": “000ffc032123”,<BR>
 "res_height":240,<BR>
@@ -57,7 +57,8 @@
 "h":37",<BR>
 "obj_tracking_id":3218,<BR>
 "obj_dwell_time":9,<BR>
-"color_id":0,"color":"white",<BR>
+"color_id":0, <BR>
+"color":"white",<BR>
 "behavior_id":1,<BR>
 “rec_live”: “RTSP://192.168.0.200/rtsplive”,<BR>
 “rec_play”: “RTSP://192.168.0.200/rtsplive”<BR>
