@@ -63,5 +63,5 @@
 “rec_live”: “RTSP://192.168.0.200/rtsplive”,<BR>
 “rec_play”: “RTSP://192.168.0.200/rtsplive”<BR>
 “base64_img”: “ACESACCEEES=KDFS/IDSF”,<BR>
-}],
+}], <BR>
 }
