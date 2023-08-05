@@ -3,8 +3,8 @@
 HTTP Post SDK
 
 {"AiEngine": <BR>
-&nbsp[{ <BR>
-&nbsp"created_at": <|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z, <BR>
+[{ <BR>
+"created_at": <|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z, <BR>
   "camera_name": <|device_name|>,  <BR>
   "camera_mac": <|mac_address|>, <BR>
   "confidence": <|confidence|>, <BR>
