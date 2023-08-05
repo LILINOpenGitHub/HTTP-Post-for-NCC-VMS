@@ -5,8 +5,8 @@
 {"AiEngine": <BR>
 [{ <BR>
 "created_at": <|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z, <BR>
-  "camera_name": <|device_name|>,  <BR>
-  "camera_mac": <|mac_address|>, <BR>
+"camera_name": <|device_name|>,  <BR>
+"camera_mac": <|mac_address|>, <BR>
   "confidence": <|confidence|>, <BR>
   "label_name": <|name|>, <BR>
 "class_id": <|class_id|>, <BR>
@@ -18,8 +18,8 @@
 "obj_dwell_time": <|obj_dwell_time|>,     		//Optional <BR>
 "color_id": <|class_id|>,	       				//Optional <BR>
 "behavior_id": <|behavior_name|>, <BR>
-“rec_live”: <|rtsp_live|>, <BR>
-“rec_play”: <|rtsp_playback|> <BR>
+“rec_live”: <|rtsp_live|>, <BR>         //Optional <BR>
+“rec_play”: <|rtsp_playback|> <BR>     //Optional <BR>
 “base64_img”: <|base64_jpeg|>, <BR>
 }], <BR>
 }  <BR>
@@ -27,21 +27,16 @@
 | Token | Description |
 | ----- | ---------- |
 | <%name%> | Name of the object |
+| <%|mac_address%> | The mac address of your device | 
 | <%confidence%> | Confidence of the object |
 | <%left_x%> | Bonding box of X |
 | <%top_y%> | Bonding box of Y |
 | <%width%> | Bonding box of width |
 | <%height%> | Bonding box of height |
-| <%center_x%> | Bonding box center X |
-| <%center_y%> | Bonding box center Y |
 | <%behavior_id%> | Behavior ID |
+| <%color ID%> | Color of the object |
 | <%color%> | Color of the object |
-| <%linked_plate%> | Plate in the object |
-| <%plate%> | Number plate |
-| <%country%> | SA |
-| <%logo%> | Car make |
-| <%area%> | California, state name |
-| <%full_image%> | Picture of the behavior |
-| <%crop_image%> | Picture of the bounding box |
-| <%pip_image%> | Picture of the behavior with bonding box |
-| <%counter_count%> | Counting |
+| <%rtsp_live%> | The live URL of your device | 
+| <%rtsp_playback%> | The recording URL of your device | 
+| <%base64_img%> | Base 64 encryption of the JPEG |
+
