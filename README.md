@@ -40,3 +40,27 @@
 | <%rtsp_playback%> | The recording URL of your device | 
 | <%base64_img%> | Base 64 encryption of the JPEG |
 
+## Example
+{"AiEngine":
+[{
+"createdAt": "<|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z",
+"camera_name":"Z6R8982X3",
+"camera_mac": “000ffc032123”,
+"res_height":240,
+"res_width":352,
+"confidence":100,
+"label_name":"person",
+"class_id":0,
+"x":137,
+"y":60,
+"w":10,
+"h":37,",
+"obj_tracking_id":3218,
+"obj_dwell_time":9,
+"color_id":0,"color":"white",
+"behavior_id":1,
+“rec_live”: “RTSP://192.168.0.200/rtsplive”,
+“rec_play”: “RTSP://192.168.0.200/rtsplive”
+“base64_img”: “ACESACCEEES=KDFS/IDSF”,
+}],
+}
