@@ -2,8 +2,8 @@
 
 HTTP Post SDK
 
-{"AiEngine":
-[{
+{"AiEngine": <BR>
+[{  <BR>
 "created_at": <|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z,
 "camera_name": <|device_name|>,
 "camera_mac": <|mac_address|>,
