@@ -1,7 +1,7 @@
 # HTTP-Post-for-NCC-VMS
 
 ## HTTP Post SDK for a Client Posting to LILIN Navigator Control Center VMS <BR>
-
+This document provides an easy integration from a host posting JSON string to LILIN’s VMS Navigator Control Center for alarm snapshots and AI metadata. <BR> <BR>
 {"AiEngine": <BR>
 [{ <BR>
 "created_at": "<|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z", <BR>
