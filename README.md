@@ -27,7 +27,7 @@
 | Token | Description |
 | ----- | ---------- |
 | <%name%> | Name of the object |
-| <%|mac_address%|> | The mac address of your device | 
+| <%mac_address%> | The mac address of your device | 
 | <%confidence%> | Confidence of the object |
 | <%left_x%> | Bonding box of X |
 | <%top_y%> | Bonding box of Y |
