@@ -43,24 +43,24 @@
 ## Example
 {"AiEngine":
 [{
-"createdAt": "<|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z",
-"camera_name":"Z6R8982X3",
-"camera_mac": “000ffc032123”,
-"res_height":240,
-"res_width":352,
-"confidence":100,
-"label_name":"person",
-"class_id":0,
-"x":137,
-"y":60,
-"w":10,
-"h":37,",
-"obj_tracking_id":3218,
-"obj_dwell_time":9,
-"color_id":0,"color":"white",
-"behavior_id":1,
-“rec_live”: “RTSP://192.168.0.200/rtsplive”,
-“rec_play”: “RTSP://192.168.0.200/rtsplive”
-“base64_img”: “ACESACCEEES=KDFS/IDSF”,
+"createdAt": "<|YYYY|>-<|MM|>-<|DD|>T<|GMThh|>:<|mm|>:<|ss|>.000000Z", <BR>
+"camera_name":"Z6R8982X3",<BR>
+"camera_mac": “000ffc032123”,<BR>
+"res_height":240,<BR>
+"res_width":352,<BR>
+"confidence":100,<BR>
+"label_name":"person",<BR>
+"class_id":0,<BR>
+"x":137,<BR>
+"y":60,<BR>
+"w":10,<BR>
+"h":37",<BR>
+"obj_tracking_id":3218,<BR>
+"obj_dwell_time":9,<BR>
+"color_id":0,"color":"white",<BR>
+"behavior_id":1,<BR>
+“rec_live”: “RTSP://192.168.0.200/rtsplive”,<BR>
+“rec_play”: “RTSP://192.168.0.200/rtsplive”<BR>
+“base64_img”: “ACESACCEEES=KDFS/IDSF”,<BR>
 }],
 }
