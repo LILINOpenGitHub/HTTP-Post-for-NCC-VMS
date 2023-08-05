@@ -41,8 +41,8 @@ This document provides an easy integration from a host posting JSON string to LI
 | <%base64_img%> | Base 64 encryption of the JPEG |
 
 ## Example
-{"AiEngine":
-[{
+{"AiEngine": <BR>
+[{ <BR>
 "createdAt": "2023-08-02T02:11:33.000000Z", <BR>
 "camera_name":"Z6R8982X3",<BR>
 "camera_mac": “000ffc032123”,<BR>
