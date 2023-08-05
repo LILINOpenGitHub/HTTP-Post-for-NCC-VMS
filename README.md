@@ -22,4 +22,4 @@ HTTP Post SDK
 “rec_play”: <|rtsp_playback|> <BR>
 “base64_img”: <|base64_jpeg|>, <BR>
 }], <BR>
-}
+}  <BR>
